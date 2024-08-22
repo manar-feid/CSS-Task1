@@ -1,0 +1,159 @@
+.assign-1-shape-1 {
+    background-color: rgb(138, 43, 226);
+    color: white;
+    width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.assign-1-shape-2 {
+    background-color: rgb(138 43 226 /50%);
+    color: white;
+    width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.assign-1-shape-3 {
+    background-color: rgb(138 43 226 /10%);
+    color: white;
+    width: 500px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.assign-2-shape-1 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-2-shape-2 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: repeat-y;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-2-shape-3 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: repeat-x;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-2-shape-4 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: repeat;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-3-shape-1 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-3-shape-2 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: repeat-y;
+    background-position: right;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-3-shape-3 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: repeat-x;
+    background-position: bottom;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-3-shape-4 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: repeat;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-4-shape-1 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: 80% 80%;
+
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-4-shape-2 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: 80% 100%;
+    background-position: right;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-4-shape-3 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100% 80%;
+    width: 400px;
+    height: 400px;
+
+}
+
+.assign-4-shape-4 {
+    background-image: url(./css-assignment-5-8.png);
+    color: white;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+    background-position: right bottom;
+    width: 400px;
+    height: 400px;
+
+}
